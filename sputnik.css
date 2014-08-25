@@ -8,6 +8,7 @@ body {
   background-repeat: no-repeat;
   background-position: right;
   background-color: #171717;
+  margin: 0;
 }
 .name {
   font-size: 48px;
@@ -24,16 +25,20 @@ body {
 }
 a:link,a:visited {
   text-decoration: none;
-  color: lightgray;
+  color: darkgray;
 }
 html, body {height: 100%;}
 
 #wrap {min-height: 100%;}
 
-#main {overflow:auto;
-  padding-bottom: 100px;}  /* must be same height as the footer */
+#main {
+  overflow:auto;
+  padding-bottom: 150px;  /* must be same height as the footer */
+}  
 
-#footer {position: relative;
-  margin-top: -100px; /* negative value of footer height */
-  height: 150px;
-  clear:both;} 
+#footer {
+  position: relative;
+  margin-top: -50px; /* negative value of footer height */
+  height: initial;
+  clear:both;
+} 
