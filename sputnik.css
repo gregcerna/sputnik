@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Trebuchet', 'Trebuchet MS', Arial, sans-serif;
+  color: white;
+  background-image: url('catastronauts.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: #171717;
+}
+.name {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+.title {
+  margin: 7% 0%;
+}
+.links {
+  font-size: 30px;
+}
+.quote {
+  font-size: 24px;  
+}
+a:link,a:visited {
+  text-decoration: none;
+  color: lightgray;
+}
+html, body {height: 100%;}
+
+#wrap {min-height: 100%;}
+
+#main {overflow:auto;
+  padding-bottom: 100px;}  /* must be same height as the footer */
+
+#footer {position: relative;
+  margin-top: -100px; /* negative value of footer height */
+  height: 150px;
+  clear:both;} 
