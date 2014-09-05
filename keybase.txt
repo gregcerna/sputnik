@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/gregorycerna
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gregory.cerna.io
+  * I am gregorycerna (https://keybase.io/gregorycerna) on keybase.
+  * I have a public key with fingerprint A934 946F 7E3E 6C7B 0572  3D86 AF09 5B49 2042 C0F5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a934946f7e3e6c7b05723d86af095b492042c0f5",
+            "host": "keybase.io",
+            "key_id": "af095b492042c0f5",
+            "uid": "c2bf0dde6974629392e4a943aa533900",
+            "username": "gregorycerna"
+        },
+        "service": {
+            "hostname": "gregory.cerna.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1409894034,
+    "expire_in": 157680000,
+    "prev": "4aa786d252a4eb23228cc26180294720c1fce8d58faf94516e92a0ec132a2098",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.2
+Comment: https://keybase.io/crypto
+
+yMHjAnicZZFdSBRRFMd3dTVciZLQcPNBxr6URWbufN4lLSr6IB8iAiHC9c7MnXVQ
+Z9bZXVdZltBAWMGCwKD2RbFEcRF8kYoskzRLUjJUWiiTMEOQygej8qMZq4fovhzu
+Ob/z/5/Deboz1ea0ozubG/0j2VP2ieEfIdvFjFM3IoSoy42EJ0JU4+2gqJoPG35D
+1YKEh0CQZiDDKTymMSfxIsnygJYFDikkZEUGApIBEqmwhJuo0gNWhykjogAuVnUz
+Z368qmzp/M+HtgsSEBVSljEHeYYDkIYAMwgyNEIsTUOStMAANjRUi03aZ2CfbjRK
+VoKIugmzUq9K2Jrbsv+XKt7Gfg/iN/SgLuk1ZrUqGPR7rOZgo9+iw1j0/tHxiqom
+m/ubDfXYCKi6Rngok5SCqiVMMSQUIEPSjJvADX7VwF7VIlieE0jzWTa43pRkEOIF
+TgYsQAwWAQ2AIEmAowQSQIYHpEQpEhZkVlCQAhmW4jAEiMQSRQMETA/C2qxO0y1L
+c07kMzUDqk9DwZCBiejI8GWHze60paelWCe0OTN2/z3swNSO9cwDo4vX5iKO1WRo
+8Ym4Jg9mXsxLzmaVxo06+3Li7sJKjmtpZjTHt/LpXcWl7zOzr6is41dLyjrKMl3v
++2NZ3QVdw/M3N72T+Q9PDFWPimu3StffnLHvO+/4fDQcr2id7krkDaR9MZo1W29y
+Kfa4rXPu5PS9gokPDxaHykvantdeSJzt3XoZluP2zryqIz25BpvKRkJFhUmu/O3t
+qBR2NV9pTU6mHHIUdjcYLw53JapzxeV0A1X21ewZd9UN9o1lt3+bb4q97pndhWnQ
+6Yq3HNzvHG851hZo78hvfrRBNp0b2/us6XrUffojHkjRKpcW7sdKPHNFqz9ntr6m
+/wJhrRsw
+=suvf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gregorycerna
+
+==================================================================
+
